@@ -20,6 +20,7 @@ the following resources:
 **Planning Dashboard:**
 
 - Student 01 Planning Dashboard: https://github.com/users/ManunGar/projects/3
+- Student 02 Planning Dashboard: https://github.com/users/ManunGar/projects/4
 - Student 05 Planning Dashboard: https://github.com/users/ManunGar/projects/7
 - Student 04 Planning Dashboard: https://github.com/users/ManunGar/projects/6
  

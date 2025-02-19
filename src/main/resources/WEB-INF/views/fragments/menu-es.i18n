@@ -11,7 +11,12 @@
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
-master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.favourite-student1 = 21154890L: Nuño García, Manuel
+master.menu.anonymous.favourite-student2 = 77693260L: Moreno Ríos, Juan
+master.menu.anonymous.favourite-student3 = 29534036N: Portillo Sanchez, Alonso
+master.menu.anonymous.favourite-student4 = 47560992M: Ruiz López, Juan Antonio
+master.menu.anonymous.favourite-student5 = 29519141K: Ruiz Martín, Alejandro
+
 
 # master.menu.administrator ###################################################
 
